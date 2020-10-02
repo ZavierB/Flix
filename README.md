@@ -20,6 +20,8 @@
 ### Notes
 Describe any challenges encountered while building the app.
 
+Alamofire/Image module could not be found error. Solved by running Simulator via .xcworkspace ONLY.
+
 
 # Flix
 
